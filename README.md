@@ -4,8 +4,7 @@
 In active development.
 Full source is private during development.
 
-Weave is a concurrency intelligence engine for Java. It is something I started building after watching production systems fail in ways that were nearly impossible to explain not crashes, not exceptions, just wrong results, degraded behavior, and race conditions that appeared once in ten thousand executions and left no trace.
-
+Weave is a concurrency intelligence engine for Java. 
 ---
 
 ## What Weave Does
