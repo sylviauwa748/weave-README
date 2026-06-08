@@ -1,5 +1,4 @@
 # weave-README
-# Weave
 
 ## Status
 In active development.
