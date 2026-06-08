@@ -1,10 +1,12 @@
 # weave-README
 
-## Status
+## Weave is a concurrency intelligence engine for Java. 
+
+### Status
 In active development.
 Full source is private during development.
 
-Weave is a concurrency intelligence engine for Java. 
+
 ---
 
 ## What Weave Does
