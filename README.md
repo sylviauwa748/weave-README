@@ -1,6 +1,6 @@
 # weave-README
 
-## Weave is a concurrency intelligence engine for Java. 
+## Weave is a runtime concurrency debugger and educator for java. 
 
 ### Status
 In active development.
